@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="294fd69b-17c2-433f-9d00-571b1ef48362" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/MainConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/WebDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/crossfitProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-15-44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-17-28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-23-48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-25-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-25-53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-41-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-41-33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_20-59-36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-01-28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-04-49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-08-53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-10-35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-19-29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-21-32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-22-44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-25-33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-26-53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-29-54.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-30-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-32-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-32-30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-34-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-35-37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-44-59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-45-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-48-48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-51-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-53-56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_21-58-56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-02-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-03-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-04-45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-10-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-12-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-13-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-13-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-13-52.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-18-54.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-20-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-22-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-23-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-24-46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-26-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-40-26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-40-55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-41-39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-50-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-09_22-54-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_14-53-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_14-57-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-01-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-01-56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-03-42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-05-48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-12-56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-27-41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/extent-reports/report_2018-10-13_15-34-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/ActionBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/BrowserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/By2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/webdrivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/webdrivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/Web/webdrivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/configFile/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitAbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitCreateAcountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitFindABoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitFoundationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitHowToAffiliatePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitInstagramPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitJournalPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitSignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitStuffPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/crossfit/CrossfitSubmitPhotoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/reports/CliReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/reports/Reports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/reports/extent/ExtentReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/reports/extent/ExtentReportsBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/reports/extent/ExtentReportsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/tests/CrossfitMaimPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/tests/crossfitMenuTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/tests/crossfitRegistrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/src/main/java/utils/AssertUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/Web/ActionBot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/Web/BrowserType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/Web/By2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/Web/WebDriverFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/Web/WebDriverFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/configFile/MainConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitAbstractPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitCreateAcountPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitFindABoxPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitFoundationPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitHomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitHowToAffiliatePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitInstagramPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitJournalPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitSignInPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitStuffPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/crossfit/CrossfitSubmitPhotoPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/reports/CliReporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/reports/Reports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/reports/extent/ExtentReporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/reports/extent/ExtentReportsBaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/reports/extent/ExtentReportsListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/CrossfitMaimPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitMenuTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitRegistrationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/utils/AssertUtils.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1834891747">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="17" />
+          <entry key="html" value="2" />
+          <entry key="java" value="241" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="17" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="241" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="44" />
+          <entry key="java" value="10307" />
+          <entry key="properties" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10307" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Properties" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#crossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#instagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#findABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#crossfitfoundationEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+                <element signature="method#howToAffiliateEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+                <element signature="method#scrolldown#0;class#crossfitMenuTests#0" expanded="true" />
+                <marker date="1540482096988" expanded="true" signature="687:692" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#CrossfitHowToAffiliatePage#0;class#CrossfitHowToAffiliatePage#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#PasswordsNotMatchTest#0;class#crossfitRegistrationTests#0" expanded="true" />
+                <element signature="method#fullRegTest#0;class#crossfitRegistrationTests#0" expanded="true" />
+                <element signature="method#scrolldown#0;class#crossfitRegistrationTests#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="109" column="40" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1540482017538" expanded="true" signature="467:6466" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Web/ActionBot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#scrollToElement#0;class#ActionBot#0" expanded="true" />
+                <element signature="method#switchToTabByTitle#0;class#ActionBot#0" expanded="true" />
+                <element signature="method#waitForElementToBeVisible#0;class#ActionBot#0" expanded="true" />
+                <element signature="method#waitForElementToBeClickable#0;class#ActionBot#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/configFile/MainConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="method#beforeMethod#0;class#BaseTest#0" expanded="true" />
+                <element signature="method#afterMethod#0;class#BaseTest#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitInstagramPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#CrossfitInstagramPage#0;class#CrossfitInstagramPage#0" expanded="true" />
+                <element signature="method#numOfFollowers#0;class#CrossfitInstagramPage#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AutomotionCFProject" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/crossfitHomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/crossfitHp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/crossfitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitShop.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/reports/extent/ExtentReporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrossfitAbstractPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitSingIn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitCreateAcount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reports/Reports.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reports/extent/ExtentReportsBaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reports/extent/ExtentReportsListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Web/By2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitFoundation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitSingInPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitStuffPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitFoundationPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitAbstractPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitFindABoxPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/configFile/MainConfig.java" />
+        <option value="$PROJECT_DIR$/MainConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/Web/WebDriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Web/BrowserType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitSubmitPhotoPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/AssertUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitInstagramPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitCreateAcountPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Web/ActionBot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitStorePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CrossfitProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1440" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="configFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crossfit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="explicitwa&#9;PSI&#9;JAVA://configFile.MainConfig#webdriverExplicitWaitInSeconds&#10;how&#9;PSI&#9;JAVA://crossfit.CrossfitHp#affiliates_how_to_affiliate&#10;FACTORY&#9;PSI&#9;JAVA://Web.WebDriverFactory" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540633767923" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/amazon-automation_lecture20" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shani bar dimri\Documents\crossfitProject\src\main\java" />
+      <recent name="C:\Users\shani bar dimri\Documents\crossfitProject" />
+      <recent name="C:\Users\shani bar dimri\Documents\crossfitProject\src\main\java\Web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="crossfit" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="reports.extent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.crossfitMenuTests.howToAffiliateEnterPage">
+    <configuration name="CrossfitJournalTest.jornalPageIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CrossfitJournalTest" />
+      <option name="METHOD_NAME" value="jornalPageIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossfitMaimPageTest.buyAShose" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
+      <option name="METHOD_NAME" value="buyAShose" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossfitMaimPageTest.crossfitStuffEnterPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
+      <option name="METHOD_NAME" value="crossfitStuffEnterPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
+      <option name="METHOD_NAME" value="instagramFollowerCheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crossfitMenuTests.howToAffiliateEnterPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.crossfitMenuTests" />
+      <option name="METHOD_NAME" value="howToAffiliateEnterPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CrossfitMaimPageTest.buyAShose" />
+      <item itemvalue="TestNG.CrossfitMaimPageTest.crossfitStuffEnterPage" />
+      <item itemvalue="TestNG.CrossfitMaimPageTest.instagramFollowerCheck" />
+      <item itemvalue="TestNG.CrossfitJournalTest.jornalPageIn" />
+      <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
+        <item itemvalue="TestNG.CrossfitJournalTest.jornalPageIn" />
+        <item itemvalue="TestNG.CrossfitMaimPageTest.buyAShose" />
+        <item itemvalue="TestNG.CrossfitMaimPageTest.instagramFollowerCheck" />
+        <item itemvalue="TestNG.CrossfitMaimPageTest.crossfitStuffEnterPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="294fd69b-17c2-433f-9d00-571b1ef48362" name="Default Changelist" comment="" />
+      <created>1536579815828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536579815828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CrossfitMaimPageTest_crossfitStuffEnterPage - 2018.10.25 at 17h 52m 22s.xml">
+      <configuration name="CrossfitMaimPageTest.crossfitStuffEnterPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 05m 55s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 06m 55s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 09m 05s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 13m 00s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 13m 55s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_buyAShose - 2018.10.25 at 18h 20m 12s.xml">
+      <configuration name="CrossfitMaimPageTest.buyAShose" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.25 at 18h 26m 21s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.25 at 18h 28m 20s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="crossfitMenuTests_howToAffiliateEnterPage - 2018.10.25 at 18h 40m 52s.xml">
+      <configuration name="crossfitMenuTests.howToAffiliateEnterPage" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28053692" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32152975" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49932885" weight="0.45042494" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4022663" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/TestResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="322" selection-start-line="322" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/annotations/BeforeClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="111" column="11" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/annotations/BeforeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/reports/CliReporter.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/reports/Reports.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/tests/CrossfitTest.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/reports/Reports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reports/CliReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Spliterators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="947" selection-start-line="947" selection-end-line="947" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="473" selection-start-line="473" selection-end-line="473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/stream/ReduceOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="912" selection-start-line="912" selection-end-line="912" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/internal/WebElementToJsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="82" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Web/BrowserType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar!/com/google/common/collect/ImmutableBiMapFauxverideShim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar!/com/google/common/collect/CollectPreconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar!/com/google/common/collect/SingletonImmutableBiMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar!/com/google/common/collect/ImmutableBiMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre-sources.jar!/com/google/common/collect/ImmutableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="452" selection-start-line="452" selection-end-line="452" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/AssertUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitFoundationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitAbstractPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="method#assertInPage#0;class#CrossfitAbstractPage#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitSignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitStuffPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitSubmitPhotoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/RemoteWebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitFindABoxPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitCreateAcountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="37" column="138" selection-start-line="37" selection-start-column="94" selection-end-line="37" selection-end-column="138" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#NewAcount#0;class#CrossfitCreateAcountPage#0" expanded="true" />
+            <element signature="method#errorLineGetText#0;class#CrossfitCreateAcountPage#0" expanded="true" />
+            <element signature="method#scrolldown#0;class#CrossfitCreateAcountPage#0" expanded="true" />
+            <element signature="method#readTermsClik#0;class#CrossfitCreateAcountPage#0" expanded="true" />
+            <element signature="method#CreateAcountClick#0;class#CrossfitCreateAcountPage#0" expanded="true" />
+            <element signature="method#cooliePolicyClick#0;class#CrossfitCreateAcountPage#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeConstructorAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="105" selection-start-line="43" selection-start-column="7" selection-end-line="46" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitStorePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#crossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#instagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#findABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#crossfitfoundationEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+            <element signature="method#howToAffiliateEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+            <element signature="method#scrolldown#0;class#crossfitMenuTests#0" expanded="true" />
+            <marker date="1540482096988" expanded="true" signature="687:692" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CrossfitHowToAffiliatePage#0;class#CrossfitHowToAffiliatePage#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="109" column="40" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1540482017538" expanded="true" signature="467:6466" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Web/ActionBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#scrollToElement#0;class#ActionBot#0" expanded="true" />
+            <element signature="method#switchToTabByTitle#0;class#ActionBot#0" expanded="true" />
+            <element signature="method#waitForElementToBeVisible#0;class#ActionBot#0" expanded="true" />
+            <element signature="method#waitForElementToBeClickable#0;class#ActionBot#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/configFile/MainConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="method#beforeMethod#0;class#BaseTest#0" expanded="true" />
+            <element signature="method#afterMethod#0;class#BaseTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitInstagramPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CrossfitInstagramPage#0;class#CrossfitInstagramPage#0" expanded="true" />
+            <element signature="method#numOfFollowers#0;class#CrossfitInstagramPage#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#PasswordsNotMatchTest#0;class#crossfitRegistrationTests#0" expanded="true" />
+            <element signature="method#fullRegTest#0;class#crossfitRegistrationTests#0" expanded="true" />
+            <element signature="method#scrolldown#0;class#crossfitRegistrationTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crossfitProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
