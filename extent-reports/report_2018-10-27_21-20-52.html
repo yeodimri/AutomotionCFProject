@@ -46,7 +46,7 @@
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<li>
                 <a href='#!'>
-                    <span class='label suite-start-time blue darken-3'>Oct 13, 2018 03:27:41 PM</span>
+                    <span class='label suite-start-time blue darken-3'>Oct 27, 2018 09:20:52 PM</span>
 				</a>
 			</li>
 			<li>
@@ -72,6 +72,7 @@
 				</a>
 				<ul id='tests-toggle' class='dropdown-content'>
 											<li status='pass'><a href='#!'>Pass <i class='material-icons green-text'>check_circle</i></a></li>
+						<li status='fail'><a href='#!'>Fail <i class='material-icons red-text'>cancel</i></a></li>
 					<li class='divider'></li>
 					<li status='clear' clear='true'><a href='#!'>Clear Filters <i class='material-icons'>clear</i></a></li>
 				</ul>
@@ -122,10 +123,10 @@
 					<canvas id='parent-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>1</span> test(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='0%'><span class='strong'>0</span> test(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> test(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='100%'>1</span> test(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
 				</div>
 			</div>
 		</div>
@@ -137,10 +138,10 @@
 					<canvas id='child-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='5.882%'><span class='strong'>1</span> step(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='3.571%'><span class='strong'>1</span> step(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='94.118%'>16</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='3.571%'>1</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='92.857%'>26</span> others
 				</div>
 			</div>
 		</div>
@@ -155,17 +156,17 @@
 			<ul id='test-collection' class='test-collection'>
 				
 				
-				<li class='test displayed active  pass' status='pass' bdd='false' test-id='1'>
+				<li class='test displayed active  fail' status='fail' bdd='false' test-id='1'>
 					<div class='test-heading'>
-						<span class='test-name'>PasswordsNotMatchTest</span>
-						<span class='test-time'>Oct 13, 2018 03:27:41 PM</span>
-						<span class='test-status right pass'>pass</span>
+						<span class='test-name'>jornalPageIn</span>
+						<span class='test-time'>Oct 27, 2018 09:20:52 PM</span>
+						<span class='test-status right fail'>fail</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Oct 13, 2018 03:27:41 PM</span>
-	<span class='label end-time'>Oct 13, 2018 03:28:00 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 18s+583ms</span>
+	<span class='label start-time'>Oct 27, 2018 09:20:52 PM</span>
+	<span class='label end-time'>Oct 27, 2018 09:21:10 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 18s+34ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -179,88 +180,143 @@
 			<tbody>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:45 PM</td>
+					<td class='timestamp'>9:20:56 PM</td>
 					<td class='step-details'>Browsing to URL: http://www.crossfit.com</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:49 PM</td>
+					<td class='timestamp'>9:21:04 PM</td>
 					<td class='step-details'>*** On page: Crossfit Home Page</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:50 PM</td>
-					<td class='step-details'>Click on element: sign in button (By.className: sign-in)</td>
+					<td class='timestamp'>9:21:04 PM</td>
+					<td class='step-details'>Click on element: journal first left button (By.xpath: //*[@id="journal"]/ul/li/ul/li[1]/a/img)</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:52 PM</td>
-					<td class='step-details'>*** On page: Crossfit Sing In Page</td>
+					<td class='timestamp'>9:21:04 PM</td>
+					<td class='step-details'>Switch to tab where URL contains: 'https://journal.crossfit.com/'</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:57 PM</td>
-					<td class='step-details'>*** On page: Crossfit Create Acount Page</td>
+					<td class='timestamp'>9:21:07 PM</td>
+					<td class='step-details'>*** On page: Crossfit Journal page</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:57 PM</td>
-					<td class='step-details'>Write 'yeonatan' to element: create first field (By.xpath: //input[@placeholder='First'])</td>
+					<td class='timestamp'>9:21:07 PM</td>
+					<td class='step-details'>Selected 'Lifestyle' from List: Catagory DropDown (By.xpath: //*[@id="media-filter"]/div[1]/select)</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:58 PM</td>
-					<td class='step-details'>Write 'dimri' to element: create last field (By.xpath: //input[@placeholder='Last'])</td>
+					<td class='timestamp'>9:21:07 PM</td>
+					<td class='step-details'>Selected 'English' from List: Language DropDown (By.xpath: //*[@id="media-filter"]/div[2]/select)</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:58 PM</td>
-					<td class='step-details'>Write 'yeodimri@gmail.com' to element: create Email field (By.xpath: //input[@placeholder='Email'])</td>
+					<td class='timestamp'>9:21:08 PM</td>
+					<td class='step-details'>Write 'Lifestyle' to element: Journal Search field (By.xpath: //*[@id="media-filter"]/input[1])</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:58 PM</td>
-					<td class='step-details'>Write 'yeodimri@gmail.com' to element: create Confirm Email field (By.xpath: //input[@placeholder='Confirm Email'])</td>
+					<td class='timestamp'>9:21:08 PM</td>
+					<td class='step-details'>Click on element: Journal Search Button (By.xpath: //*[@id="media-filter"]/input[2])</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:58 PM</td>
-					<td class='step-details'>Write 'syd12061986' to element: create Pass field (By.cssSelector: #passwordField)</td>
+					<td class='timestamp'>9:21:08 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:58 PM</td>
-					<td class='step-details'>Write 'syd12061987' to element: create Confirm Pass field (By.xpath: //input[@placeholder='Confirm Password'])</td>
+					<td class='timestamp'>9:21:08 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:59 PM</td>
-					<td class='step-details'>Scrolled to Element Click ReadMe box (By.xpath: //label[@for='terms'])</td>
+					<td class='timestamp'>9:21:08 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='fail'>
+					<td class='status fail' title='fail' alt='fail'><i class='material-icons'>cancel</i></td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - FAIL: actual = NUTRITION; expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:59 PM</td>
-					<td class='step-details'>Click on element: Click ReadMe box (By.xpath: //label[@for='terms'])</td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:59 PM</td>
-					<td class='step-details'>Click on element: Click CookiePolicy box (By.xpath: //label[@for='privacy'])</td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:27:59 PM</td>
-					<td class='step-details'>Click on element: Create Account button (By.xpath: //button[@class='btn btn-default btn-block'][contains(text(),'Create Account')])</td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='info'>
 					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
-					<td class='timestamp'>3:28:00 PM</td>
-					<td class='step-details'>Assert Equals: Got the correct answer - OK: actual = expected = Passwords do not match.</td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:09 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:10 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:10 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:10 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:10 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
+				</tr>
+				<tr class='log' status='info'>
+					<td class='status info' title='info' alt='info'><i class='material-icons'>info_outline</i></td>
+					<td class='timestamp'>9:21:10 PM</td>
+					<td class='step-details'>Assert Equals: Asserte result is - OK: actual = expected = LIFESTYLE</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:28:00 PM</td>
-					<td class='step-details'>Test success: PasswordsNotMatchTest</td>
+					<td class='timestamp'>9:21:10 PM</td>
+					<td class='step-details'>Test success: jornalPageIn</td>
 				</tr>
 			</tbody>
 		</table>
@@ -308,25 +364,25 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Steps
-					<div class='panel-lead'>17</div>
+					<div class='panel-lead'>28</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Oct 13, 2018 03:27:41 PM</div>
+					<div class='panel-lead'>Oct 27, 2018 09:20:52 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Oct 13, 2018 03:28:00 PM</div>
+			 		<div class='panel-lead'>Oct 27, 2018 09:21:10 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>0h 0m 18s+724ms</div>
+					<div class='panel-lead'>0h 0m 18s+210ms</div>
 				</div>
 			</div>
 		</div>
@@ -339,22 +395,22 @@
 
 		<script>
 			var statusGroup = {
-				passParent: 1,
-				failParent: 0,
+				passParent: 0,
+				failParent: 1,
 				fatalParent: 0,
 				errorParent: 0,
 				warningParent: 0,
 				skipParent: 0,
-				exceptionsParent: 0,
+				exceptionsParent: 1,
 				
 				passChild: 1,
-				failChild: 0,
+				failChild: 1,
 				fatalChild: 0,
 				errorChild: 0,
 				warningChild: 0,
 				skipChild: 0,
-				infoChild: 16,
-				exceptionsChild: 0,
+				infoChild: 26,
+				exceptionsChild: 1,
 				
 				passGrandChild: 0,
 				failGrandChild: 0,

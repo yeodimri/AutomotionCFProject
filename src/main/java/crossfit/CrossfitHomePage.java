@@ -30,23 +30,15 @@ public class CrossfitHomePage extends CrossfitAbstractPage {
     private static final By2 affiliates = new By2("affiliates button", By.id("affiliates"));
 
     private static final By2 affiliates_how_to_affiliate = new By2("how affiliates button", By.xpath(("//a[contains(@href,'how-to-affiliate')]")));
-
     private static final By2 affiliates_application = new By2("affiliates application button", By.xpath(("//a[contains(@href,'account/apply')]")));
-
     private static final By2 affiliates_affiliate_map = new By2("affiliates application map", By.xpath(("//a[text()='affiliate map']")));
-
     private static final By2 affiliates_affiliate_list = new By2("affiliates application list", By.xpath(("//a[contains(@href,'affiliate-list')]")));
-
     private static final By2 affiliates_report_ip_theft = new By2("affiliates report a theft button", By.xpath(("//a[contains(@href,'iptheft')]")));
-
     private static final By2 journal = new By2("journal button", By.id("journal"));
-
     private static final By2 journalInnerButton = new By2("journal first left button", By.xpath("//*[@id=\"journal\"]/ul/li/ul/li[1]/a/img"));
     //Change Xpath/\
     private static final By2 games = new By2("games button", By.id("games"));
-
     private static final By2 exercise_demos = new By2("exercisa demo button", By.id("exercise"));
-
     private static final By2 certifications = new By2("certifications button", By.id("certifications"));
     private static final By2 certifications_Certified_Crossfit_Trainer = new By2("certifications Certified Crossfit Trainer button", By.xpath(("//a[contains(@href,'ccft')]")));
     private static final By2 certifications_Certified_CrossFit_Coach = new By2("certifications Certified Crossfit Coach button", By.xpath(("//a[contains(@href,'/ccfc')]")));
@@ -128,7 +120,7 @@ public class CrossfitHomePage extends CrossfitAbstractPage {
 
     public CrossfitJournalPage journalInnerFirstLeftClickButton() throws Exception {
         hoverAndClick(journal, journalInnerButton);
-        bot.switchToTabByUrl("https://journal.crossfit.com");
+        bot.switchToTabByUrl("https://journal.crossfit.com/");
         return new CrossfitJournalPage(driver);
     }
 
@@ -217,7 +209,6 @@ public class CrossfitHomePage extends CrossfitAbstractPage {
     private void hoverAndClick(By2 elementToHover, By2 elementToClick) {
         WebElement element = driver.findElement(elementToHover.by);
         Actions action = new Actions(driver);
-
         action.moveToElement(element).build().perform();
         bot.click(elementToClick);
     }

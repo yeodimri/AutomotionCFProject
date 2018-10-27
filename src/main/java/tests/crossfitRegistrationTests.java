@@ -14,7 +14,6 @@ import java.awt.event.KeyEvent;
 public class crossfitRegistrationTests extends BaseTest {
     @Test
     public void PasswordsNotMatchTest() {
-        JavascriptExecutor js = (JavascriptExecutor) driver;
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         crossfitHomePage.signInClickOnButton();

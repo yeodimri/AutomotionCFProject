@@ -125,6 +125,167 @@
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitMenuTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitRegistrationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/utils/AssertUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-15-44.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-17-28.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-23-48.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-25-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-25-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-41-08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-41-33.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_20-59-36.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-01-28.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-04-49.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-08-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-10-35.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-19-29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-21-32.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-22-44.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-25-33.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-26-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-29-54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-30-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-32-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-32-30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-34-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-35-37.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-44-59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-45-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-48-48.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-51-04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-53-56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_21-58-56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-02-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-03-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-04-45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-10-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-12-23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-13-03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-13-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-13-52.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-18-54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-20-08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-22-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-23-09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-24-46.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-26-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-40-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-40-55.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-41-39.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-50-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-09_22-54-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_14-53-19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_14-57-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-01-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-01-56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-03-42.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-05-48.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-12-56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-27-41.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-13_15-34-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-20-07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-21-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-21-43.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-26-42.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-28-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-28-54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-18_20-29-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-33-39.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-43-01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-44-31.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-47-02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-47-19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-47-54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-48-59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-53-03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_16-54-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-05-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-07-03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-08-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-11-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-18-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-19-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-23-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-33-40.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-52-54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-53-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-54-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-55-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_17-57-45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-19_18-00-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_12-27-35.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_12-32-31.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_12-34-04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_12-35-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_12-38-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_12-39-30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-04-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-06-28.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-07-35.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-08-45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-10-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-11-07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-26-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-29-29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-42-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-44-59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-49-29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-51-29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-53-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_13-56-39.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-05-33.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-06-57.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-14-25.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-20-24.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-26-43.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-28-43.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-31-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-20_14-32-03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_18-59-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_20-25-23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_20-38-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_20-58-02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_20-59-34.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-01-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-01-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-03-09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-07-45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-09-42.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-11-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-14-23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-17-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-18-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-19-52.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-21-43.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-24-25.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-26-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-22_21-29-47.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-36-02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-36-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-37-28.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-42-59.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-48-01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-49-46.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_17-51-52.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-04-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-06-08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-08-43.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-11-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-13-04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-19-24.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-25-55.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-27-44.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-reports/report_2018-10-25_18-40-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crossfit/CrossfitHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crossfit/CrossfitHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crossfit/CrossfitJournalPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crossfit/CrossfitJournalPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/CrossfitJournalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/CrossfitJournalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/crossfitMenuTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/crossfitMenuTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/crossfitRegistrationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/crossfitRegistrationTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -138,7 +299,7 @@
     <session id="1834891747">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="1" />
@@ -158,7 +319,7 @@
         <counts>
           <entry key="class" value="17" />
           <entry key="html" value="2" />
-          <entry key="java" value="241" />
+          <entry key="java" value="244" />
           <entry key="properties" value="3" />
           <entry key="xml" value="1" />
         </counts>
@@ -167,7 +328,7 @@
         <counts>
           <entry key="CLASS" value="17" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="241" />
+          <entry key="JAVA" value="244" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -175,13 +336,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="java" value="10307" />
+          <entry key="java" value="10515" />
           <entry key="properties" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10307" />
+          <entry key="JAVA" value="10515" />
           <entry key="PLAIN_TEXT" value="44" />
           <entry key="Properties" value="7" />
         </counts>
@@ -193,7 +354,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="825">
               <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -210,7 +371,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="544">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -226,7 +387,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="289">
               <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -236,14 +397,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="197">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#PasswordsNotMatchTest#0;class#crossfitRegistrationTests#0" expanded="true" />
                 <element signature="method#fullRegTest#0;class#crossfitRegistrationTests#0" expanded="true" />
                 <element signature="method#scrolldown#0;class#crossfitRegistrationTests#0" expanded="true" />
               </folding>
@@ -254,11 +414,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="109" column="40" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
+            <state relative-caret-position="146">
+              <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1540482017538" expanded="true" signature="467:6466" ph="..." />
+                <element signature="e#7069#7262#0" expanded="true" />
+                <element signature="e#10340#10621#0" expanded="true" />
+                <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
               </folding>
             </state>
           </provider>
@@ -267,8 +429,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="136">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -279,8 +441,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Web/ActionBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#scrollToElement#0;class#ActionBot#0" expanded="true" />
@@ -292,24 +454,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/configFile/MainConfig.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="383">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#980#994#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitAbstractPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-              <folding>
-                <element signature="method#beforeMethod#0;class#BaseTest#0" expanded="true" />
-                <element signature="method#afterMethod#0;class#BaseTest#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="112">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -317,8 +481,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitInstagramPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="109" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="109" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#CrossfitInstagramPage#0;class#CrossfitInstagramPage#0" expanded="true" />
@@ -343,7 +507,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AutomotionCFProject" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -378,16 +542,16 @@
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitSubmitPhotoPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/AssertUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitInstagramPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitCreateAcountPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/Web/ActionBot.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitStorePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" />
       </list>
     </option>
   </component>
@@ -494,7 +658,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="explicitwa&#9;PSI&#9;JAVA://configFile.MainConfig#webdriverExplicitWaitInSeconds&#10;how&#9;PSI&#9;JAVA://crossfit.CrossfitHp#affiliates_how_to_affiliate&#10;FACTORY&#9;PSI&#9;JAVA://Web.WebDriverFactory" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540633767923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540664557728" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/amazon-automation_lecture20" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -527,7 +691,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.crossfitMenuTests.howToAffiliateEnterPage">
+  <component name="RunManager" selected="TestNG.CrossfitJournalTest.jornalPageIn">
     <configuration name="CrossfitJournalTest.jornalPageIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="crossfitProject" />
       <extension name="coverage">
@@ -557,24 +721,6 @@
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
       <option name="METHOD_NAME" value="buyAShose" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CrossfitMaimPageTest.crossfitStuffEnterPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="crossfitProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
-      <option name="METHOD_NAME" value="crossfitStuffEnterPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -618,20 +764,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="crossfitRegistrationTests.PasswordsNotMatchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.crossfitRegistrationTests" />
+      <option name="METHOD_NAME" value="PasswordsNotMatchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.CrossfitMaimPageTest.buyAShose" />
-      <item itemvalue="TestNG.CrossfitMaimPageTest.crossfitStuffEnterPage" />
       <item itemvalue="TestNG.CrossfitMaimPageTest.instagramFollowerCheck" />
       <item itemvalue="TestNG.CrossfitJournalTest.jornalPageIn" />
       <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
+      <item itemvalue="TestNG.crossfitRegistrationTests.PasswordsNotMatchTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
         <item itemvalue="TestNG.CrossfitJournalTest.jornalPageIn" />
+        <item itemvalue="TestNG.crossfitRegistrationTests.PasswordsNotMatchTest" />
+        <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
         <item itemvalue="TestNG.CrossfitMaimPageTest.buyAShose" />
         <item itemvalue="TestNG.CrossfitMaimPageTest.instagramFollowerCheck" />
-        <item itemvalue="TestNG.CrossfitMaimPageTest.crossfitStuffEnterPage" />
       </list>
     </recent_temporary>
   </component>
@@ -649,46 +813,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CrossfitMaimPageTest_crossfitStuffEnterPage - 2018.10.25 at 17h 52m 22s.xml">
-      <configuration name="CrossfitMaimPageTest.crossfitStuffEnterPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 05m 55s.xml">
-      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 06m 55s.xml">
-      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 09m 05s.xml">
-      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 13m 00s.xml">
-      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.25 at 18h 13m 55s.xml">
-      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitMaimPageTest_buyAShose - 2018.10.25 at 18h 20m 12s.xml">
-      <configuration name="CrossfitMaimPageTest.buyAShose" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.25 at 18h 26m 21s.xml">
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 06m 02s.xml">
       <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.25 at 18h 28m 20s.xml">
+    <history-entry file="crossfitRegistrationTests_PasswordsNotMatchTest - 2018.10.27 at 21h 07m 26s.xml">
+      <configuration name="crossfitRegistrationTests.PasswordsNotMatchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 11m 23s.xml">
       <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="crossfitMenuTests_howToAffiliateEnterPage - 2018.10.25 at 18h 40m 52s.xml">
-      <configuration name="crossfitMenuTests.howToAffiliateEnterPage" configurationId="TestNG" />
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 12m 57s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 15m 52s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 17m 40s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 18m 54s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 19m 22s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 19m 48s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 21m 10s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28053692" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23020135" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" weight="0.32719547" />
@@ -922,16 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitAbstractPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="method#assertInPage#0;class#CrossfitAbstractPage#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitSignInPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -994,97 +1149,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="46" column="105" selection-start-line="43" selection-start-column="7" selection-end-line="46" selection-end-column="105" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitStorePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#crossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#instagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#findABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#crossfitfoundationEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
-            <element signature="method#howToAffiliateEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
-            <element signature="method#scrolldown#0;class#crossfitMenuTests#0" expanded="true" />
-            <marker date="1540482096988" expanded="true" signature="687:692" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#CrossfitHowToAffiliatePage#0;class#CrossfitHowToAffiliatePage#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="109" column="40" selection-start-line="109" selection-start-column="40" selection-end-line="109" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1540482017538" expanded="true" signature="467:6466" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Web/ActionBot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#scrollToElement#0;class#ActionBot#0" expanded="true" />
-            <element signature="method#switchToTabByTitle#0;class#ActionBot#0" expanded="true" />
-            <element signature="method#waitForElementToBeVisible#0;class#ActionBot#0" expanded="true" />
-            <element signature="method#waitForElementToBeClickable#0;class#ActionBot#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1107,10 +1177,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CrossfitHowToAffiliatePage#0;class#CrossfitHowToAffiliatePage#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitInstagramPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="109" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="109" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#CrossfitInstagramPage#0;class#CrossfitInstagramPage#0" expanded="true" />
@@ -1119,15 +1200,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="825">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#PasswordsNotMatchTest#0;class#crossfitRegistrationTests#0" expanded="true" />
+            <element signature="method#crossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#instagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#findABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#crossfitfoundationEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+            <element signature="method#howToAffiliateEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+            <element signature="method#scrolldown#0;class#crossfitMenuTests#0" expanded="true" />
+            <marker date="1540482096988" expanded="true" signature="687:692" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitAbstractPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7069#7262#0" expanded="true" />
+            <element signature="e#10340#10621#0" expanded="true" />
+            <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#fullRegTest#0;class#crossfitRegistrationTests#0" expanded="true" />
             <element signature="method#scrolldown#0;class#crossfitRegistrationTests#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Web/ActionBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#scrollToElement#0;class#ActionBot#0" expanded="true" />
+            <element signature="method#switchToTabByTitle#0;class#ActionBot#0" expanded="true" />
+            <element signature="method#waitForElementToBeVisible#0;class#ActionBot#0" expanded="true" />
+            <element signature="method#waitForElementToBeClickable#0;class#ActionBot#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#980#994#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
           </folding>
         </state>
       </provider>

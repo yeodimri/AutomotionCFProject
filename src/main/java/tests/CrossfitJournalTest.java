@@ -9,13 +9,13 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 
 public class CrossfitJournalTest extends BaseTest {
-
+    
     @Test
     public void jornalPageIn() throws Exception {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         CrossfitJournalPage cfJournal = crossfitHomePage.journalInnerFirstLeftClickButton();
-        cfJournal.findInJournal("Lifestyle", "English", "LIFESTYLE");
+        cfJournal.findInJournal("Lifestyle", "English", "Lifestyle");
 
 
 //        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
