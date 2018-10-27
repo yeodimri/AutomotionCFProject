@@ -16,7 +16,6 @@ public class crossfitMenuTests extends BaseTest {
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         crossfitHomePage.foundationClickOnButton();
         CrossfitFoundationPage crossfitFoundationPage = new CrossfitFoundationPage(driver);
-        driver.close();
     }
 
     @Test
@@ -27,7 +26,6 @@ public class crossfitMenuTests extends BaseTest {
         scrolldown("window.scrollBy(0,700)");
         CrossfitSignInPage cfSignIn = cfHowToAffiliatePage.clickApllyButton();
 
-        driver.close();
     }
 
 

@@ -125,7 +125,7 @@
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitMenuTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitRegistrationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/utils/AssertUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -159,30 +159,30 @@
         <counts>
           <entry key="class" value="17" />
           <entry key="html" value="2" />
-          <entry key="java" value="244" />
+          <entry key="java" value="246" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="17" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="244" />
+          <entry key="JAVA" value="246" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="44" />
-          <entry key="java" value="10515" />
+          <entry key="java" value="10522" />
           <entry key="properties" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10515" />
+          <entry key="JAVA" value="10522" />
           <entry key="PLAIN_TEXT" value="44" />
           <entry key="Properties" value="7" />
         </counts>
@@ -191,34 +191,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="140">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#crossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
-                <element signature="method#instagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
-                <element signature="method#findABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#aacrossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#cinstagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
+                <element signature="method#dfindABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
                 <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
                 <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#crossfitfoundationEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
-                <element signature="method#howToAffiliateEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
-                <element signature="method#scrolldown#0;class#crossfitMenuTests#0" expanded="true" />
-                <marker date="1540482096988" expanded="true" signature="687:692" ph="..." />
               </folding>
             </state>
           </provider>
@@ -254,10 +238,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="122" column="29" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
+            <state relative-caret-position="146">
+              <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#6535#6692#0" expanded="true" />
+                <element signature="e#7771#8020#0" expanded="true" />
                 <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
               </folding>
             </state>
@@ -292,11 +278,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="21" column="131" selection-start-line="21" selection-start-column="131" selection-end-line="21" selection-end-column="131" />
+            <state relative-caret-position="451">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#findInJournal#0;class#CrossfitJournalPage#0" expanded="true" />
@@ -310,6 +296,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tests/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="method#beforeMethod#0;class#BaseTest#0" expanded="true" />
+                <element signature="method#afterMethod#0;class#BaseTest#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -381,13 +380,13 @@
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitCreateAcountPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Web/ActionBot.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitStorePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java" />
       </list>
     </option>
   </component>
@@ -494,7 +493,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="explicitwa&#9;PSI&#9;JAVA://configFile.MainConfig#webdriverExplicitWaitInSeconds&#10;how&#9;PSI&#9;JAVA://crossfit.CrossfitHp#affiliates_how_to_affiliate&#10;FACTORY&#9;PSI&#9;JAVA://Web.WebDriverFactory" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540664557728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540667150512" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/amazon-automation_lecture20" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -527,26 +526,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CrossfitJournalTest.jornalPageIn">
-    <configuration name="CrossfitJournalTest.jornalPageIn" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="crossfitProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.CrossfitJournalTest" />
-      <option name="METHOD_NAME" value="jornalPageIn" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CrossfitMaimPageTest.buyAShose" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.crossfitRegistrationTests.PasswordsNotMatchTest">
+    <configuration name="CrossfitMaimPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="crossfitProject" />
       <extension name="coverage">
         <pattern>
@@ -556,7 +537,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
-      <option name="METHOD_NAME" value="buyAShose" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossfitMaimPageTest.crossfitStuffEnterPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="crossfitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CrossfitMaimPageTest" />
+      <option name="METHOD_NAME" value="crossfitStuffEnterPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -582,7 +579,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="crossfitMenuTests.howToAffiliateEnterPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="crossfitMenuTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="crossfitProject" />
       <extension name="coverage">
         <pattern>
@@ -592,8 +589,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.crossfitMenuTests" />
-      <option name="METHOD_NAME" value="howToAffiliateEnterPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -619,19 +614,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.CrossfitMaimPageTest.buyAShose" />
+      <item itemvalue="TestNG.CrossfitMaimPageTest" />
+      <item itemvalue="TestNG.CrossfitMaimPageTest.crossfitStuffEnterPage" />
       <item itemvalue="TestNG.CrossfitMaimPageTest.instagramFollowerCheck" />
-      <item itemvalue="TestNG.CrossfitJournalTest.jornalPageIn" />
-      <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
+      <item itemvalue="TestNG.crossfitMenuTests" />
       <item itemvalue="TestNG.crossfitRegistrationTests.PasswordsNotMatchTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CrossfitJournalTest.jornalPageIn" />
         <item itemvalue="TestNG.crossfitRegistrationTests.PasswordsNotMatchTest" />
-        <item itemvalue="TestNG.crossfitMenuTests.howToAffiliateEnterPage" />
-        <item itemvalue="TestNG.CrossfitMaimPageTest.buyAShose" />
+        <item itemvalue="TestNG.crossfitMenuTests" />
+        <item itemvalue="TestNG.CrossfitMaimPageTest" />
         <item itemvalue="TestNG.CrossfitMaimPageTest.instagramFollowerCheck" />
+        <item itemvalue="TestNG.CrossfitMaimPageTest.crossfitStuffEnterPage" />
       </list>
     </recent_temporary>
   </component>
@@ -649,47 +644,46 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 06m 02s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="crossfitRegistrationTests_PasswordsNotMatchTest - 2018.10.27 at 21h 07m 26s.xml">
-      <configuration name="crossfitRegistrationTests.PasswordsNotMatchTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 11m 23s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 12m 57s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 15m 52s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 17m 40s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 18m 54s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 19m 22s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 19m 48s.xml">
-      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 21m 10s.xml">
       <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitJournalTest_jornalPageIn - 2018.10.27 at 21h 46m 46s.xml">
+      <configuration name="CrossfitJournalTest.jornalPageIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest - 2018.10.27 at 21h 48m 52s.xml">
+      <configuration name="CrossfitMaimPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest - 2018.10.27 at 21h 51m 37s.xml">
+      <configuration name="CrossfitMaimPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_crossfitStuffEnterPage - 2018.10.27 at 21h 53m 14s.xml">
+      <configuration name="CrossfitMaimPageTest.crossfitStuffEnterPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.27 at 21h 55m 08s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest_instagramFollowerCheck - 2018.10.27 at 21h 55m 33s.xml">
+      <configuration name="CrossfitMaimPageTest.instagramFollowerCheck" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest - 2018.10.27 at 21h 57m 02s.xml">
+      <configuration name="CrossfitMaimPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest - 2018.10.27 at 21h 57m 52s.xml">
+      <configuration name="CrossfitMaimPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CrossfitMaimPageTest - 2018.10.27 at 21h 59m 31s.xml">
+      <configuration name="CrossfitMaimPageTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23355705" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23355705" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" weight="0.32719547" />
@@ -697,7 +691,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49932885" weight="0.45042494" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49932885" visible="true" weight="0.57648724" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4022663" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -716,13 +710,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/TestResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1002,32 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding>
-            <element signature="method#beforeMethod#0;class#BaseTest#0" expanded="true" />
-            <element signature="method#afterMethod#0;class#BaseTest#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#crossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#instagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#findABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
-            <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -1065,27 +1026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="122" column="29" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Web/ActionBot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -1119,13 +1059,372 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="137" column="2" selection-start-line="137" selection-start-column="2" selection-end-line="137" selection-end-column="2" />
+          <folding>
+            <element signature="n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#usages-collector#0;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#counts#0;n#usages-collector#0;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#usages-collector#1;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#counts#0;n#usages-collector#1;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#usages-collector#2;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#counts#0;n#usages-collector#2;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#usages-collector#3;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#counts#0;n#usages-collector#3;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#usages-collector#4;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#counts#0;n#usages-collector#4;n#session#0;n#component#1;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#0;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#0;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#0;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#1;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#1;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#1;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#1;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#1;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#2;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#2;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#2;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#2;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#2;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#3;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#3;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#3;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#3;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#3;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#4;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#4;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#4;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#4;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#4;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#5;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#5;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#5;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#5;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#5;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#6;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#6;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#6;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#6;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#6;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#7;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#7;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#7;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#7;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#8;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#8;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#8;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#8;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#file#9;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#entry#0;n#file#9;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#provider#0;n#entry#0;n#file#9;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#state#0;n#provider#0;n#entry#0;n#file#9;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#folding#0;n#state#0;n#provider#0;n#entry#0;n#file#9;n#leaf#0;n#component#2;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#3;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#component#3;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#0;n#component#3;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#4;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#findStrings#0;n#component#4;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#5;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#6;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#component#6;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#0;n#component#6;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#treeState#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#expand#0;n#treeState#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#0;n#expand#0;n#treeState#0;n#component#7;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#8;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#navigator#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#0;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#1;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#2;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#3;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#4;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#5;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#6;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#7;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#8;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#path#9;n#expand#0;n#subPane#0;n#pane#0;n#panes#0;n#component#10;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#11;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#12;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#key#0;n#component#12;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#key#1;n#component#12;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#key#2;n#component#12;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#13;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#option#0;n#component#13;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#option#0;n#component#13;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#RuleState#0;n#list#0;n#option#0;n#component#13;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#RuleState#1;n#list#0;n#option#0;n#component#13;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#extension#0;n#configuration#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pattern#0;n#extension#0;n#configuration#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#method#0;n#configuration#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#1;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#extension#0;n#configuration#1;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pattern#0;n#extension#0;n#configuration#1;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#method#0;n#configuration#1;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#2;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#extension#0;n#configuration#2;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pattern#0;n#extension#0;n#configuration#2;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#method#0;n#configuration#2;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#3;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#extension#0;n#configuration#3;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pattern#0;n#extension#0;n#configuration#3;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#method#0;n#configuration#3;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#configuration#4;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#extension#0;n#configuration#4;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#pattern#0;n#extension#0;n#configuration#4;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#method#0;n#configuration#4;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#recent_temporary#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#list#0;n#recent_temporary#0;n#component#14;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#15;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#task#0;n#component#16;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#0;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#1;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#2;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#3;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#4;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#5;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#6;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#7;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#8;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#history-entry#9;n#component#17;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#18;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#layout#0;n#component#18;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#component#19;n#project#0;n#!!top" expanded="true" />
+            <element signature="e#45530#45891#0" expanded="true" />
+            <element signature="e#45662#45878#0" expanded="true" />
+            <element signature="e#45726#45860#0" expanded="true" />
+            <element signature="e#45896#46320#0" expanded="true" />
+            <element signature="e#46087#46307#0" expanded="true" />
+            <element signature="e#46151#46289#0" expanded="true" />
+            <element signature="e#46325#46709#0" expanded="true" />
+            <element signature="e#46476#46696#0" expanded="true" />
+            <element signature="e#46540#46678#0" expanded="true" />
+            <element signature="e#46714#47147#0" expanded="true" />
+            <element signature="e#46852#47134#0" expanded="true" />
+            <element signature="e#46916#47116#0" expanded="true" />
+            <element signature="e#47152#47562#0" expanded="true" />
+            <element signature="e#47264#47549#0" expanded="true" />
+            <element signature="e#47328#47531#0" expanded="true" />
+            <element signature="e#47567#47997#0" expanded="true" />
+            <element signature="e#47706#47984#0" expanded="true" />
+            <element signature="e#47770#47966#0" expanded="true" />
+            <element signature="e#48002#48155#0" expanded="true" />
+            <element signature="e#48160#48468#0" expanded="true" />
+            <element signature="e#48239#48455#0" expanded="true" />
+            <element signature="e#48303#48437#0" expanded="true" />
+            <element signature="e#48555#48861#0" expanded="true" />
+            <element signature="e#48632#48848#0" expanded="true" />
+            <element signature="e#48696#48830#0" expanded="true" />
+            <element signature="e#48866#49176#0" expanded="true" />
+            <element signature="e#48947#49163#0" expanded="true" />
+            <element signature="e#49011#49145#0" expanded="true" />
+            <element signature="e#49181#49536#0" expanded="true" />
+            <element signature="e#49304#49523#0" expanded="true" />
+            <element signature="e#49368#49505#0" expanded="true" />
+            <element signature="e#49541#49884#0" expanded="true" />
+            <element signature="e#49652#49871#0" expanded="true" />
+            <element signature="e#49716#49853#0" expanded="true" />
+            <element signature="e#49889#50243#0" expanded="true" />
+            <element signature="e#50011#50230#0" expanded="true" />
+            <element signature="e#50075#50212#0" expanded="true" />
+            <element signature="e#50248#50595#0" expanded="true" />
+            <element signature="e#50363#50582#0" expanded="true" />
+            <element signature="e#50427#50564#0" expanded="true" />
+            <element signature="e#50600#51125#0" expanded="true" />
+            <element signature="e#50810#51112#0" expanded="true" />
+            <element signature="e#50874#51094#0" expanded="true" />
+            <element signature="e#51130#51505#0" expanded="true" />
+            <element signature="e#51194#51492#0" expanded="true" />
+            <element signature="e#51258#51474#0" expanded="true" />
+            <element signature="e#51510#51898#0" expanded="true" />
+            <element signature="e#51587#51885#0" expanded="true" />
+            <element signature="e#51651#51867#0" expanded="true" />
+            <element signature="e#51903#52299#0" expanded="true" />
+            <element signature="e#51985#52286#0" expanded="true" />
+            <element signature="e#52049#52268#0" expanded="true" />
+            <element signature="e#52304#52757#0" expanded="true" />
+            <element signature="e#52462#52744#0" expanded="true" />
+            <element signature="e#52526#52726#0" expanded="true" />
+            <element signature="e#52762#53157#0" expanded="true" />
+            <element signature="e#52928#53144#0" expanded="true" />
+            <element signature="e#52992#53126#0" expanded="true" />
+            <element signature="e#53162#53549#0" expanded="true" />
+            <element signature="e#53320#53536#0" expanded="true" />
+            <element signature="e#53384#53518#0" expanded="true" />
+            <element signature="e#53554#53944#0" expanded="true" />
+            <element signature="e#53715#53931#0" expanded="true" />
+            <element signature="e#53779#53913#0" expanded="true" />
+            <element signature="e#53949#54330#0" expanded="true" />
+            <element signature="e#54101#54317#0" expanded="true" />
+            <element signature="e#54165#54299#0" expanded="true" />
+            <element signature="e#54335#54717#0" expanded="true" />
+            <element signature="e#54485#54704#0" expanded="true" />
+            <element signature="e#54549#54686#0" expanded="true" />
+            <element signature="e#54722#55071#0" expanded="true" />
+            <element signature="e#54842#55058#0" expanded="true" />
+            <element signature="e#54906#55040#0" expanded="true" />
+            <element signature="e#55076#55477#0" expanded="true" />
+            <element signature="e#55179#55464#0" expanded="true" />
+            <element signature="e#55243#55446#0" expanded="true" />
+            <element signature="e#55482#55836#0" expanded="true" />
+            <element signature="e#55603#55823#0" expanded="true" />
+            <element signature="e#55667#55805#0" expanded="true" />
+            <element signature="e#55841#56235#0" expanded="true" />
+            <element signature="e#55920#56222#0" expanded="true" />
+            <element signature="e#55984#56204#0" expanded="true" />
+            <element signature="e#56240#56628#0" expanded="true" />
+            <element signature="e#56333#56615#0" expanded="true" />
+            <element signature="e#56397#56597#0" expanded="true" />
+            <element signature="e#56633#57036#0" expanded="true" />
+            <element signature="e#56722#57023#0" expanded="true" />
+            <element signature="e#56786#57005#0" expanded="true" />
+            <element signature="e#57041#57589#0" expanded="true" />
+            <element signature="e#57129#57576#0" expanded="true" />
+            <element signature="e#57193#57558#0" expanded="true" />
+            <element signature="e#57383#57541#0" expanded="true" />
+            <element signature="e#57594#57982#0" expanded="true" />
+            <element signature="e#57688#57969#0" expanded="true" />
+            <element signature="e#57752#57951#0" expanded="true" />
+            <element signature="e#57987#58408#0" expanded="true" />
+            <element signature="e#58179#58395#0" expanded="true" />
+            <element signature="e#58243#58377#0" expanded="true" />
+            <element signature="e#58413#58733#0" expanded="true" />
+            <element signature="e#58504#58720#0" expanded="true" />
+            <element signature="e#58568#58702#0" expanded="true" />
+            <element signature="e#58738#59883#0" expanded="true" />
+            <element signature="e#58833#59870#0" expanded="true" />
+            <element signature="e#58897#59852#0" expanded="true" />
+            <element signature="e#59093#59835#0" expanded="true" />
+            <element signature="e#59888#60256#0" expanded="true" />
+            <element signature="e#60027#60243#0" expanded="true" />
+            <element signature="e#60091#60225#0" expanded="true" />
+            <element signature="e#60261#60745#0" expanded="true" />
+            <element signature="e#60349#60732#0" expanded="true" />
+            <element signature="e#60413#60714#0" expanded="true" />
+            <element signature="e#60607#60697#0" expanded="true" />
+            <element signature="e#60750#61128#0" expanded="true" />
+            <element signature="e#60833#61115#0" expanded="true" />
+            <element signature="e#60897#61097#0" expanded="true" />
+            <element signature="e#61133#61723#0" expanded="true" />
+            <element signature="e#61209#61710#0" expanded="true" />
+            <element signature="e#61273#61692#0" expanded="true" />
+            <element signature="e#61464#61675#0" expanded="true" />
+            <element signature="e#61728#62679#0" expanded="true" />
+            <element signature="e#61816#62666#0" expanded="true" />
+            <element signature="e#61880#62648#0" expanded="true" />
+            <element signature="e#62008#62631#0" expanded="true" />
+            <element signature="e#62684#63512#0" expanded="true" />
+            <element signature="e#62769#63499#0" expanded="true" />
+            <element signature="e#62833#63481#0" expanded="true" />
+            <element signature="e#62961#63464#0" expanded="true" />
+            <element signature="e#63517#64133#0" expanded="true" />
+            <element signature="e#63614#64120#0" expanded="true" />
+            <element signature="e#63678#64102#0" expanded="true" />
+            <element signature="e#63872#64085#0" expanded="true" />
+            <element signature="e#64138#64774#0" expanded="true" />
+            <element signature="e#64231#64761#0" expanded="true" />
+            <element signature="e#64295#64743#0" expanded="true" />
+            <element signature="e#64423#64726#0" expanded="true" />
+            <element signature="e#64779#65356#0" expanded="true" />
+            <element signature="e#64866#65343#0" expanded="true" />
+            <element signature="e#64930#65325#0" expanded="true" />
+            <element signature="e#65128#65308#0" expanded="true" />
+            <element signature="e#65361#65844#0" expanded="true" />
+            <element signature="e#65448#65831#0" expanded="true" />
+            <element signature="e#65512#65813#0" expanded="true" />
+            <element signature="e#65706#65796#0" expanded="true" />
+            <element signature="e#65849#66659#0" expanded="true" />
+            <element signature="e#65924#66646#0" expanded="true" />
+            <element signature="e#65988#66628#0" expanded="true" />
+            <element signature="e#66116#66611#0" expanded="true" />
+            <element signature="e#66664#66984#0" expanded="true" />
+            <element signature="e#66755#66971#0" expanded="true" />
+            <element signature="e#66819#66953#0" expanded="true" />
+            <element signature="e#66989#67698#0" expanded="true" />
+            <element signature="e#67081#67685#0" expanded="true" />
+            <element signature="e#67145#67667#0" expanded="true" />
+            <element signature="e#67341#67650#0" expanded="true" />
+            <element signature="e#68005#68198#0" expanded="true" />
+            <element signature="e#68251#68609#0" expanded="true" />
+            <element signature="e#68313#68596#0" expanded="true" />
+            <element signature="e#68377#68578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="131" selection-start-line="21" selection-start-column="131" selection-end-line="21" selection-end-column="131" />
+        <state relative-caret-position="451">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#findInJournal#0;class#CrossfitJournalPage#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="method#beforeMethod#0;class#BaseTest#0" expanded="true" />
+            <element signature="method#afterMethod#0;class#BaseTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6535#6692#0" expanded="true" />
+            <element signature="e#7771#8020#0" expanded="true" />
+            <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#aacrossfitStuffEnterPage#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#cinstagramFollowerCheck#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#dfindABox#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#buyAShose#0;class#CrossfitMaimPageTest#0" expanded="true" />
+            <element signature="method#SubscribeToEmails#0;class#CrossfitMaimPageTest#0" expanded="true" />
           </folding>
         </state>
       </provider>
