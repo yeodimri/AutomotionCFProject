@@ -23,8 +23,7 @@ public class CrossfitJournalPage extends CrossfitAbstractPage {
     private static final By2 searchFieldJournalPage = new By2("Journal Search field", By.xpath("//*[@id=\"media-filter\"]/input[1]"));
     private static final By2 searchButtonJournalPage = new By2("Journal Search Button", By.xpath("//*[@id=\"media-filter\"]/input[2]"));
     private String upperCatagory;
-//Change Xpath
-//*[@id="media-filter"]/input[2
+
 
     public CrossfitJournalPage(WebDriver driver) {
         super("Crossfit Journal page", driver, bannerTopOverlayText);
