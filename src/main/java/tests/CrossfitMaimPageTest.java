@@ -24,9 +24,8 @@ public class CrossfitMaimPageTest extends BaseTest {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         CrossfitStuffPage cfstuff = crossfitHomePage.shop_CrossfitStuff_ClickOnButton();
-        driver.close();
-    }
 
+    }
 
     @Test
     public void instagramFollowerCheck() throws Exception {
@@ -34,6 +33,7 @@ public class CrossfitMaimPageTest extends BaseTest {
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         CrossfitInstagramPage cfInstagramP = crossfitHomePage.instagramClickButto();
         cfInstagramP.numOfFollowers();
+
     }
 
     @Test
@@ -44,9 +44,8 @@ public class CrossfitMaimPageTest extends BaseTest {
         crossfitHomePage.findABoxCity("Tel aviv");
         crossfitHomePage.numOfBoxsFunc();
         AssertUtils.assertEquals(crossfitHomePage.numOfBoxsFunc(), 6, "A correct num of boxes", true);
-        driver.close();
-    }
 
+    }
 
     @Test
     public void buyAShose() throws Exception {
@@ -54,7 +53,7 @@ public class CrossfitMaimPageTest extends BaseTest {
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         CrossfitStorePage cFSPage = crossfitHomePage.shop_CrossfitStoreClickOnButton();
         cFSPage.womanNanoLifterShoe();
-        driver.close();
+
     }
 
     //    @Test
