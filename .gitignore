@@ -1,2 +1,1 @@
-# Ignore file named 'workspace.xml'
-workspace.xml/
+'.idea/workspace.xml'
