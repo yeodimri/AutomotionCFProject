@@ -10,8 +10,7 @@ import org.testng.Reporter;
 import reports.Reports;
 import utils.AssertUtils;
 
-import java.awt.*;
-import java.awt.event.KeyEvent;
+
 import java.util.List;
 
 public class CrossfitJournalPage extends CrossfitAbstractPage {

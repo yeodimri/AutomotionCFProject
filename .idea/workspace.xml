@@ -125,8 +125,8 @@
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitMenuTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/tests/crossfitRegistrationTests.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AutomotionCFProject/target/classes/utils/AssertUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -161,7 +161,7 @@
           <entry key="class" value="18" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="259" />
+          <entry key="java" value="261" />
           <entry key="properties" value="5" />
           <entry key="xml" value="3" />
         </counts>
@@ -170,7 +170,7 @@
         <counts>
           <entry key="CLASS" value="18" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="259" />
+          <entry key="JAVA" value="261" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="5" />
           <entry key="XML" value="3" />
@@ -220,17 +220,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="146" column="55" lean-forward="true" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
+            <state relative-caret-position="357">
+              <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6535#6692#0" expanded="true" />
+                <element signature="e#7771#8020#0" expanded="true" />
+                <element signature="e#10333#10613#0" expanded="true" />
+                <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="method#findInJournal#0;class#CrossfitJournalPage#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -331,7 +359,6 @@
         <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitJournalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHowToAffiliatePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/CrossfitMaimPageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/crossfitMenuTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/crossfitRegistrationTests.java" />
@@ -343,6 +370,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Web/ActionBot.java" />
         <option value="$PROJECT_DIR$/MainConfig.properties" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java" />
       </list>
     </option>
   </component>
@@ -388,6 +416,27 @@
               <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrossfitProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossfitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crossfit" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -397,7 +446,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="git&#9;PSI&#9;JAVA://com.aventstack.extentreports.ResourceCDN#GITHUB&#10;explicitwa&#9;PSI&#9;JAVA://configFile.MainConfig#webdriverExplicitWaitInSeconds&#10;how&#9;PSI&#9;JAVA://crossfit.CrossfitHp#affiliates_how_to_affiliate&#10;FACTORY&#9;PSI&#9;JAVA://Web.WebDriverFactory" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540759722733" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540759982903" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/amazon-automation_lecture20" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -772,6 +821,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -814,6 +867,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -821,6 +877,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CrossfitHowToAffiliatePage#0;class#CrossfitHowToAffiliatePage#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -828,13 +888,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#crossfitfoundationEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+            <element signature="method#howToAffiliateEnterPage#0;class#crossfitMenuTests#0" expanded="true" />
+            <marker date="1540667091861" expanded="true" signature="663:668" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -856,6 +915,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
           <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#PasswordsNotMatchTestregistration#0;class#crossfitRegistrationTests#0" expanded="true" />
+            <element signature="method#&lt;unnamed&gt;#0;class#crossfitRegistrationTests#0" expanded="true" />
+            <element signature="method#scrolldown#0;class#crossfitRegistrationTests#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -887,13 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
@@ -963,15 +1021,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="146" column="55" lean-forward="true" selection-start-line="146" selection-start-column="55" selection-end-line="146" selection-end-column="55" />
+        <state relative-caret-position="357">
+          <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6535#6692#0" expanded="true" />
+            <element signature="e#7771#8020#0" expanded="true" />
+            <element signature="e#10333#10613#0" expanded="true" />
+            <marker date="1540663537545" expanded="true" signature="467:6458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crossfit/CrossfitJournalPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="method#findInJournal#0;class#CrossfitJournalPage#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
