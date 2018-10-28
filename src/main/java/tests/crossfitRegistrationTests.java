@@ -13,7 +13,7 @@ import java.awt.event.KeyEvent;
 
 public class crossfitRegistrationTests extends BaseTest {
     @Test
-    public void PasswordsNotMatchTest() {
+    public void PasswordsNotMatchTestRegistration() {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         crossfitHomePage.signInClickOnButton();
@@ -25,7 +25,7 @@ public class crossfitRegistrationTests extends BaseTest {
 
     }
     @Test//do not run!!!!!!!
-    public void fullRegTest() {
+    public void correctRegistration() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);

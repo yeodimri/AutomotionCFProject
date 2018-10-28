@@ -1,4 +1,4 @@
-package com.amazon.auto.infra.web;
+package Web;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

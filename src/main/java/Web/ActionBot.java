@@ -11,12 +11,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import reports.Reports;
 
-import javax.xml.xpath.XPath;
-import java.net.URL;
-import java.nio.channels.Selector;
-import java.util.ArrayList;
+
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
+
 
 public class ActionBot<value> {
 
