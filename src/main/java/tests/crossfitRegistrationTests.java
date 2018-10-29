@@ -8,8 +8,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
 import utils.AssertUtils;
 
-import java.awt.*;
-import java.awt.event.KeyEvent;
 
 public class crossfitRegistrationTests extends BaseTest {
     @Test
@@ -24,6 +22,7 @@ public class crossfitRegistrationTests extends BaseTest {
         AssertUtils.assertEquals(cfCreateNewAcount.errorLineGetText(), "Passwords do not match.", "Got the correct answer", true);
 
     }
+
     @Test//do not run!!!!!!!
     public void correctRegistration() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
@@ -36,11 +35,6 @@ public class crossfitRegistrationTests extends BaseTest {
         cfCreateNewAcount.NewAcount("yeonatan", "dimri", "yeodimri@gmail.com", "yeodimri@gmail.com", "syd12061986", "syd12061986", "6", "12", "1986");
         AssertUtils.assertEquals(cfCreateNewAcount.errorLineGetText(), "Passwords do not match.", "Got the correct answer", true);
 
-    }
-
-    public void scrolldown(String javaScript) {
-
-        ((JavascriptExecutor) driver).executeScript(javaScript);
     }
 
 }
