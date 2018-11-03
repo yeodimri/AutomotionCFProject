@@ -107,6 +107,11 @@ public class ActionBot<value> {
         webDriverWait.until(ExpectedConditions.elementToBeClickable(by2.by));
         Reports.report("Element is clickable: " + by2.description + " (" + by2.by + ")");
     }
+
+    public void getTextFrOMElement(By2 by2){
+
+
+    }
 }
 
 

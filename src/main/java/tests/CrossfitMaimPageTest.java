@@ -56,20 +56,25 @@ public class CrossfitMaimPageTest extends BaseTest {
 
     }
 
-    //    @Test
-    public void SubscribeToEmails() {
+    @Test
+    public void errorUpdatesSubsribe() throws Exception {
+        browseToUrl(MainConfig.baseUrl);
+        CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
+        CrossfitStuffPage cfstuff = crossfitHomePage.shop_CrossfitStuff_ClickOnButton();
+        CrossfitUpdateSubsribePage CFUpdatesPage = cfstuff.emailUpdatesSubscribe("yeo");
+        CFUpdatesPage.errorMassageAsserting();
+
     }
 
-    //    @Test
-    public void findACourse() {
-    }
+    @Test//this Test is not finish becuse i can not to subsribe any more
+    public void correctSubsribe() throws Exception {
+        browseToUrl(MainConfig.baseUrl);
+        CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
+        CrossfitStuffPage cfstuff = crossfitHomePage.shop_CrossfitStuff_ClickOnButton();
+        CrossfitUpdateSubsribePage CFUpdatesPage = cfstuff.emailUpdatesSubscribe("44@gm.com");
+        CrossfitSubscriptionConfirmedPage CFConfirmSubscription = CFUpdatesPage.fullSingupToSubsribe();
+        CFConfirmSubscription.MassageAsserting();
 
-    //    @Test
-    public void findATrainer() {
-    }
-
-    //    @Test
-    public void contactUS() {
     }
 
 

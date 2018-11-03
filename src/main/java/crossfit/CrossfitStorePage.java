@@ -20,7 +20,6 @@ public class CrossfitStorePage extends CrossfitAbstractPage {
     }
 
     private static final By2 popUpcCloseButton = new By2("popUp close button", By.id("popUp-close"));
-    //    private static final By2 popUpcCloseButton = new By2("popUp close button", By.xpath("//div[@class='form-section']/div[@class='form-header']/span[@id='popUp-close']"));
     private static final By2 searchInputField = new By2("search input field", By.id("searchinput"));
     private static final By2 womanField = new By2("woman gender Field", By.xpath("//li[@class='gender-Women']"));
     private static final By2 lifterField = new By2("lifter model Field", By.xpath(("//span[@class='filtervalue'][contains(text(),'Lifter')]")));

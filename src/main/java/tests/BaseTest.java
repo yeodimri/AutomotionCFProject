@@ -38,7 +38,7 @@ public abstract class BaseTest {
 
     }
 
-    @AfterMethod
+//    @AfterMethod
     public void afterMethod() {
 
         if (driver != null && MainConfig.closeBrowserAfterTest) {

@@ -13,10 +13,10 @@ public class CrossfitHowToAffiliatePage extends CrossfitAbstractPage {
         super("Crossfit Crossfit How To Affiliat ePage", driver, applyButton);
     }
 
-public CrossfitSignInPage clickApllyButton(){
+    public CrossfitSignInPage clickApllyButton() {
         bot.click(applyButton);
         return new CrossfitSignInPage(driver);
-}
+    }
 
 }
 
