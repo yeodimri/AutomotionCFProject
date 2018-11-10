@@ -16,7 +16,7 @@ public class CrossfitInstagramPage extends CrossfitAbstractPage {
     { super("Crossfit Crossfit Inatagram Page ePage", driver,insagramLogo); }
 
 
-    public String numOfFollowers(){
+    public String numOfInstagramFollowers(){
 
         String Attribute = driver.findElement(followersNum.by).getAttribute("title");
         Reports.report("number of followers is : "+ Attribute);

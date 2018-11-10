@@ -2,17 +2,8 @@ package tests;
 
 import configFile.MainConfig;
 import crossfit.*;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Keys;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import Web.ActionBot;
 import utils.AssertUtils;
-
-import java.util.ArrayList;
-import java.util.concurrent.TimeUnit;
 
 import static org.testng.Assert.assertEquals;
 
@@ -31,8 +22,8 @@ public class CrossfitMaimPageTest extends BaseTest {
     public void instagramFollowerCheck() throws Exception {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
-        CrossfitInstagramPage cfInstagramP = crossfitHomePage.instagramClickButto();
-        cfInstagramP.numOfFollowers();
+        CrossfitInstagramPage cfInstagramP = crossfitHomePage.ClickOnButtoInstagram();
+        cfInstagramP.numOfInstagramFollowers();
 
     }
 
@@ -52,7 +43,7 @@ public class CrossfitMaimPageTest extends BaseTest {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
         CrossfitStorePage cFSPage = crossfitHomePage.shop_CrossfitStoreClickOnButton();
-        cFSPage.womanNanoLifterShoe();
+        cFSPage.BuyWomanNanoLifterShoe();
 
     }
 

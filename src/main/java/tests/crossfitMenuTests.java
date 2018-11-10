@@ -22,9 +22,9 @@ public class crossfitMenuTests extends BaseTest {
     public void howToAffiliateEnterPage() {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
-        CrossfitHowToAffiliatePage cfHowToAffiliatePage = crossfitHomePage.affiliates_how_toClickOnButton();
+        CrossfitHowToAffiliatePage cfHowToAffiliatePage = crossfitHomePage.ClickOnButtonAffiliatesHowToAffiliat();
         scrolldown("window.scrollBy(0,700)");
-        CrossfitSignInPage cfSignIn = cfHowToAffiliatePage.clickApllyButton();
+        CrossfitSignInPage cfSignIn = cfHowToAffiliatePage.clickOnButtonAplly();
 
     }
 

@@ -33,7 +33,7 @@ public class CrossfitStorePage extends CrossfitAbstractPage {
     private static final By2 addProdact = new By2("womanLifteShoe", By.id("product_CN4515"));
 
 
-    public void womanNanoLifterShoe() throws InterruptedException {
+    public void BuyWomanNanoLifterShoe() throws InterruptedException {
         WebDriverWait wait = new WebDriverWait(driver, 30);
         WebElement element1 = wait.until(ExpectedConditions.elementToBeClickable(popUpcCloseButton.by));
         bot.click(popUpcCloseButton);

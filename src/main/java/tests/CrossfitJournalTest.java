@@ -3,10 +3,7 @@ package tests;
 import configFile.MainConfig;
 import crossfit.CrossfitHomePage;
 import crossfit.CrossfitJournalPage;
-import crossfit.CrossfitStorePage;
 import org.testng.annotations.Test;
-
-import java.util.ArrayList;
 
 public class CrossfitJournalTest extends BaseTest {
     
@@ -14,8 +11,8 @@ public class CrossfitJournalTest extends BaseTest {
     public void jornalPageSearchTesting() throws Exception {
         browseToUrl(MainConfig.baseUrl);
         CrossfitHomePage crossfitHomePage = new CrossfitHomePage(driver);
-        CrossfitJournalPage cfJournal = crossfitHomePage.journalInnerFirstLeftClickButton();
-        cfJournal.findInJournal("Lifestyle", "English", "Lifestyle");
+        CrossfitJournalPage cfJournal = crossfitHomePage.ClickOnButtonJournalInnerFirstLeft();
+        cfJournal.JournalSearchFieldCheck("Lifestyle", "English", "Lifestyle");
 
     }
 

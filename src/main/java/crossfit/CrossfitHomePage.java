@@ -86,12 +86,12 @@ public class CrossfitHomePage extends CrossfitAbstractPage {
         bot.click(foundation);
     }
 
-    public CrossfitHowToAffiliatePage affiliates_how_toClickOnButton() {
+    public CrossfitHowToAffiliatePage ClickOnButtonAffiliatesHowToAffiliat() {
         hoverAndClick(affiliates, affiliates_how_to_affiliate);
         return new CrossfitHowToAffiliatePage(driver);
     }
 
-    public CrossfitJournalPage journalInnerFirstLeftClickButton() throws Exception {
+    public CrossfitJournalPage ClickOnButtonJournalInnerFirstLeft() throws Exception {
         hoverAndClick(journal, journalMenuLeftButton);
         bot.switchToTabByUrl("https://journal.crossfit.com/");
         return new CrossfitJournalPage(driver);
@@ -136,7 +136,7 @@ public class CrossfitHomePage extends CrossfitAbstractPage {
 
     }
 
-    public CrossfitInstagramPage instagramClickButto() throws Exception {
+    public CrossfitInstagramPage ClickOnButtoInstagram() throws Exception {
         bot.click(instagram_Button);
         bot.switchToTabByTitle("CrossFit (@crossfit) • Instagram photos and videos");
         return new CrossfitInstagramPage(driver);

@@ -23,7 +23,7 @@ public class crossfitRegistrationTests extends BaseTest {
 
     }
 
-    @Test//do not run!!!!!!!
+    @Test//do not run!!!!!!!Only Rony can run this!
     public void correctRegistration() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         browseToUrl(MainConfig.baseUrl);
@@ -33,7 +33,6 @@ public class crossfitRegistrationTests extends BaseTest {
         cfSignIn.createAcountClickButton();
         CrossfitCreateAcountPage cfCreateNewAcount = new CrossfitCreateAcountPage(driver);
         cfCreateNewAcount.NewAcount("yeonatan", "dimri", "yeodimri@gmail.com", "yeodimri@gmail.com", "syd12061986", "syd12061986", "6", "12", "1986");
-        AssertUtils.assertEquals(cfCreateNewAcount.errorLineGetText(), "Passwords do not match.", "Got the correct answer", true);
 
     }
 
